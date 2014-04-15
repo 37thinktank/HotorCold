@@ -1,0 +1,30 @@
+
+#redcolor {
+	color: red;
+}
+
+#bluecolor {
+	color: blue;
+}
+
+body {
+	background-color: green;
+}
+
+.GameInput {
+	min-width:1320px;
+	height: 300 px;
+	background: none;
+	text-align: center;
+}
+
+#text {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#submit, #guess{
+	font-size: 14px;
+}
+
